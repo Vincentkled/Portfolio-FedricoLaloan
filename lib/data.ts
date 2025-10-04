@@ -36,9 +36,9 @@ export const links = [
 export const experiencesData = [
   {
     title: "Developer",
-    location: "xxx – Bandar Lampung",
+    location: "Freelance – Bandar Lampung",
     description: [
-      "Developed a web application using SQL Server and PHP, reducing transaction processing time by 30%.",
+      "Developed a web application using SQL Server and PHP.",
       "Conducted comprehensive System Integration Testing (SIT) and User Acceptance Testing (UAT) to ensure system quality and security.",
       "Created detailed system documentation to support future maintenance and development.",
     ],
