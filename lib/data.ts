@@ -56,6 +56,16 @@ export const experiencesData = [
     date: "Oct 2020 – Jan 2023",
   },
   {
+    title: "Bidang Pembudayaan Olahraga (Internship)",
+    location: "DISPORA – Prov. Lampung",
+    description: [
+      "Prepared necessary tools and materials to ensure the smooth execution of meetings.",
+      "Compiled archive reports and maintained documentation of vehicle rentals.",
+    ],
+    icon: React.createElement(CgWorkAlt),
+    date: "Oct 2020 – Jan 2023",
+  },
+  {
     title: "Asisten Notaris",
     location: "Notaris – Bandar Lampung",
     description: [
@@ -65,16 +75,6 @@ export const experiencesData = [
     ],
     icon: React.createElement(CgWorkAlt),
     date: "Sept 2014 – Sept 2015",
-  },
-  {
-    title: "Bidang Pembudayaan Olahraga (Internship)",
-    location: "DISPORA – Prov. Lampung",
-    description: [
-      "Prepared necessary tools and materials to ensure the smooth execution of meetings.",
-      "Compiled archive reports and maintained documentation of vehicle rentals.",
-    ],
-    icon: React.createElement(CgWorkAlt),
-    date: "Oct 2020 – Jan 2023",
   },
 ] as const;
 
