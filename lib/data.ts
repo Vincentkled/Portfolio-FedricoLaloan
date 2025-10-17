@@ -45,16 +45,16 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "Feb 2023 – Present",
   },
-  {
-    title: "Sekretaris",
-    location: "ASIAFI Lampung – Bandar Lampung",
-    description: [
-      "Verified the identities of involved parties and ensured signatures were provided voluntarily and lawfully.",
-      "Provided legal advice and guidance to clients regarding the documents to be drafted.",
-    ],
-    icon: React.createElement(CgWorkAlt),
-    date: "Oct 2020 – Jan 2023",
-  },
+  // {
+  //   title: "Sekretaris",
+  //   location: "ASIAFI Lampung – Bandar Lampung",
+  //   description: [
+  //     "Verified the identities of involved parties and ensured signatures were provided voluntarily and lawfully.",
+  //     "Provided legal advice and guidance to clients regarding the documents to be drafted.",
+  //   ],
+  //   icon: React.createElement(CgWorkAlt),
+  //   date: "Oct 2020 – Jan 2023",
+  // },
   {
     title: "Bidang Pembudayaan Olahraga (Internship)",
     location: "DISPORA – Prov. Lampung",
