@@ -63,7 +63,7 @@ export const experiencesData = [
       "Compiled archive reports and maintained documentation of vehicle rentals.",
     ],
     icon: React.createElement(CgWorkAlt),
-    date: "August 2021 – Jan 2021",
+    date: "Aug 2021 – Sept 2021",
   },
   {
     title: "Assistant Notary",
