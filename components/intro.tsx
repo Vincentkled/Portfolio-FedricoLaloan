@@ -4,9 +4,9 @@ import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { BsArrowRight, BsLinkedin } from "react-icons/bs";
+import { BsAndroid, BsArrowRight, BsFacebook, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
-import { FaGithubSquare } from "react-icons/fa";
+import { FaAmbulance, FaCamera, FaFacebook, FaFacebookF, FaFacebookMessenger, FaFacebookSquare, FaGithubSquare, FaPodcast, FaRegCaretSquareLeft } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
@@ -63,7 +63,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Chrissantus Fedrico Laloan.</span> I'm a{" "}
-        <span className="font-bold">results-driven Developer</span> from the banking sector. I excel at bridging{" "}
+        <span className="font-bold">results-driven Developer</span> from the Web Programmer. I excel at bridging{" "}
         <span className="italic">business needs and technical solutions</span> using{" "}
         <span className="underline">SQL</span>.
       </motion.h1>
@@ -106,10 +106,10 @@ export default function Intro() {
         </a>
         {/* <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com/yourusername"
+          href="https://www.facebook.com/conqiwgaming"
           target="_blank"
         >
-          <FaGithubSquare />
+          <FaFacebookF />
         </a> */}
       </motion.div>
     </section>
