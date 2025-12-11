@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a <span className="font-medium">results-driven Developer</span> with hands-on experience in the banking sector, specializing in automating financial processes. My proven ability is to <span className="italic">bridge business needs with technical solutions</span> through Agile collaboration and clear documentation. I am experienced with <span className="font-medium">SQL</span> and stakeholder-facing roles in high-impact projects.
+        I am a <span className="font-medium">results-driven Developer</span> with hands-on experience in the Web Programmer, specializing in automating financial processes. My proven ability is to <span className="italic">bridge business needs with technical solutions</span> through Agile collaboration and clear documentation. I am experienced with <span className="font-medium">SQL</span> and stakeholder-facing roles in high-impact projects.
       </p>
     </motion.section>
   );
